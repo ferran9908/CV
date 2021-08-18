@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Ferran Sulaiman",
+        "website": "https://ferran.sh",
+        "email": "ferran.9908@gmail.com",
+        "email2": "",
+        "phone": "+91 80982 51515",
+        "linkedin":"https://www.linkedin.com/in/ferran-sulaiman/",
+        "languages": [
+            {
+                "language": "Javascript"
+            },
+            {
+                "language": "Typescript"
+            },
+            {
+                "language": "Python"
+            },
+            {
+                "language": "Java"
+            },
+            {
+                "language": "C"
+            },
+            {
+                "language": "C++"
+            }
+        ],
+        "technologies": [
+            {
+                "technology": "React"
+            },
+            {
+                "technology": "React Native"
+            },
+            {
+                "technology": "React Redux"
+            },
+            {
+                "technology": "Docker"
+            },
+            {
+                "technology": "Amazon Web Services"
+            },
+            {
+                "technology": "Azure"
+            },
+            {
+                "technology": "Nodejs"
+            },
+            {
+                "technology": "Serverless"
+            }
+        ]
+    }
+]

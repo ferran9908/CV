@@ -1,0 +1,14 @@
+[
+  {
+    "title": "LunarVim",
+    "description": "Improved vim-autopairs support to work with other languages. Removed specific keybindings which interrupted regular use of vim."
+  },
+  {
+    "title": "Insomnia",
+    "description": "Caught and fixed documentation errors."
+  },
+  {
+    "title": "Vsinder",
+    "description": "Integrated Support for Tailwindcss and Typescript."
+  }
+]

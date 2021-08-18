@@ -1,0 +1,19 @@
+[
+    {
+        "title": "Scribe-Plus",
+        "description": "Developed an application which automatically generates a voice prescription based on doctor-patient interaction. Used Named Entity Recognition (NER) to capture the interaction between the subjects and used blockchain to make the app HIPAA Compliant."
+    },
+    {
+        "title": "Decentralized Data Storage",
+        "description": "Developed a Decentralized Data Storage system as a part of Bachelor's Project. Used Solidity Smart Contracts to maintain data confidentiality and the InterPlanetary File System (IPFS) to maintain data integrity."
+    },
+    {
+        "title": "OffPay",
+        "description": "Developed an application to perform secure financial transactions offline. Incorporated Google's Nearby Connections API to make transactions possible with the help of Bluetooth along with Asymmetric Cryptography to authenticate payments."
+    },
+    {
+        "title":"SafeStreets",
+        "description": "Developed an app that employs a Least Cost algorithm to charter safe routes based on Crime Statistics of that area. Implemented as an Android Application using Java, with a Node Backend."
+    }
+
+]

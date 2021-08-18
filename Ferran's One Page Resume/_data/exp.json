@@ -1,0 +1,33 @@
+[
+	{
+	    "company": "Sigaram Technologies",
+	    "company_location": "Chennai, India",
+	    "role": "Software Development Engineer",
+	    "team": "Intern",
+	    "time_duration": "April 2020 - Present",
+	    "details": [
+		{
+		    "title": "Evera - Audio Platform for News",
+		    "description": "Implemented the entire backend architecture from scratch and hosted on AWS. Increased text-to-speech conversion throughput from AWS Polly using the Exponential Backoff algorithm. Wrote micro-services to handle all the internal operations of a product, including setting up a logging system for tracking internal operations."
+		},
+		{
+		    "title": "GoPlinto - eCommerce Platform",
+		    "description": "Accelerated MVP development by huge margins. Expedited the Frontend Development using React and Redux. Implemented optimized REST APIs for smooth functioning of application and hosted them on Azure Cloud."
+		}
+	    ]
+	},
+	{
+	    "company": "TEDxCHENNAI",
+	    "company_location": "Chennai, India",
+	    "role": "Student Campus Ambassador",
+	    "team": "Marketing",
+	    "time_duration": "October 2018 - April 2019",
+	    "details": [
+		{
+		    "title": "TEDxCHENNAI 2019 - Flagship Event",
+		    "description": "Sold 15+ Gold Tickets and advertised and marketed the organisation in college and, also, help the college get a license to host similar TEDx events."
+		}
+	    ]
+	}
+    ]
+    
